@@ -11,3 +11,6 @@ Para subir cambios
 Paso 2
 Paso 3
 Paso 5
+
+---
+Visual
